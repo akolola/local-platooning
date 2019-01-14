@@ -1,0 +1,47 @@
+[
+  {
+    "car_id": 1,
+    "distances": [
+      {
+        "car_id": 2,
+        "distance": 5
+      },
+      {
+        "car_id": 3,
+        "distance": 10
+      }
+    ],
+    "speed": 30,
+    "status": "running"
+  },
+  {
+    "car_id": 2,
+    "distances": [
+      {
+        "car_id": 1,
+        "distance": 5
+      },
+      {
+        "car_id": 3,
+        "distance": 5
+      }
+    ],
+    "speed": 30,
+    "status": "running"
+  },
+  {
+    "car_id": 3,
+    "distances": [
+      {
+        "car_id": 1,
+        "distance": 10
+      },
+      {
+        "car_id": 2,
+        "distance": 5
+      }
+    ],
+    "speed": 30,
+    "status": "running"
+  }
+]

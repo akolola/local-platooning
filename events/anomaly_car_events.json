@@ -1,0 +1,17 @@
+[
+  {
+    "car_id": 1,
+    "distances": [
+      {
+        "car_id": 2,
+        "distance": 5
+      },
+      {
+        "car_id": 3,
+        "distance": 10
+      }
+    ],
+    "speed": 30,
+    "status": "obstacle"
+  }
+]
